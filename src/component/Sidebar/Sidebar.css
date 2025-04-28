@@ -80,7 +80,7 @@
     cursor: pointer;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 900px) {
     .sidebar .bottom {
         flex-direction: row;
         display: none;
